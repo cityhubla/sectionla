@@ -6,7 +6,7 @@ Explorations of Southern California
 * Exploration 2 | Overlay of 1941 Single Family Residence Zoning Map with 2016 Single Family Residential Zoning Data | [Link](http://cityhubla.github.io/lacity_exploration_2/) | [Code](https://github.com/cityhubla/lacity_exploration_2)
 * Exploration 3 | Identifying Single Family Properties with it's property tax base year. This looks at the rules set forth by Proposition 13 | [Data and Code](https://github.com/cityhubla/lacity_exploration_3)
 * Exploration 4 | Map displaying Entitlements Applications for Development from 2013-2015 with direct links to LA City Planning | [Map](http://cityhubla.github.io/LA-City-Entitlements/) | [Code](https://github.com/cityhubla/LA-City-Entitlements)
-* Exploration 5 | Map showing LA City Zoning with options to filter data | [Map](http://cityhubla.github.io/lacity_exploration_5/) | [Code](https://github.com/cityhubla/lacity_exploration_5/index_2.html) | [Data](https://t.co/YorkuQISjV)
+* Exploration 5 | Map showing LA City Zoning with options to filter data | [Map](http://cityhubla.github.io/lacity_exploration_5/index_2.html) | [Code](https://github.com/cityhubla/lacity_exploration_5/) | [Data](https://t.co/YorkuQISjV)
 * Exploration 6 | Map identifying properties owned by the City of Los Angeles and it's departments | [Map](http://cityhubla.github.io/lacityproperties/) | [Code](https://github.com/cityhubla/lacityproperties)
 
 ##Neighborhoods
