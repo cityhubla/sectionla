@@ -10,7 +10,7 @@ Explorations of Southern California
 * Exploration 6 | Map identifying properties owned by the City of Los Angeles and it's departments | [Map](http://cityhubla.github.io/lacityproperties/) | [Code](https://github.com/cityhubla/lacityproperties)
 
 ##Neighborhoods
-* Boyle Heights 1 | Daily updated Building Permit Applications map showing new construction with direct links to Los Angeles Building and Safety | [Map](http://cityhubla.github.io/bhmap/) | [Code](https://github.com/cityhubla/bhmap)
+* Boyle Heights 1 | Real-time Building Permit Applications map showing new construction with direct links to Los Angeles Building and Safety | [Map](http://cityhubla.github.io/bhmap/) | [Code](https://github.com/cityhubla/bhmap)
 
 ##LA County
 * Redlining | Map overlay of Homeowner's Loan Corporation Residential Security Map of Los Angeles with the Racial Dot Map published by the Weldon Cooper Center for Public Service| [Map](http://cityhubla.github.io/holc_redlining/) | [Code](https://github.com/cityhubla/holc_redlining)
