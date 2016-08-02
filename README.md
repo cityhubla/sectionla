@@ -29,6 +29,7 @@ Explorations of Southern California
   * [The Los Angeles Plan: A selected Traffic Program / compiled by the LA Traffic Commission](https://catalog.hathitrust.org/Record/100337820)
   * [Procedures ... in the filing and processing of : Subdivision tract maps; private street maps; change of zone; conditional uses; supplemental use districts; use variances; height, area of building line variances; interpretations and rulings.(1953)](https://catalog.hathitrust.org/Record/000648625)
   * [Report of a highway traffic survey in the county of Los Angeles.(1937)](https://catalog.hathitrust.org/Record/001348998)
+  * [Metropolitan Los Angeles : one community (1949)](https://catalog.hathitrust.org/Record/005888678)
 * [Internet Archive](https://archive.org/) | Non-profit Library of Free Books
   * [Centropolis: The Plan For The Central City Los Angeles (1964)](https://archive.org/details/CentropolisThePlanForTheCentralCityLosAngeles)
   * [Downtown strategic plan, Los Angeles (1993)](https://archive.org/details/downtownstrategi00losa)
