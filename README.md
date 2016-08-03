@@ -1,5 +1,5 @@
 # sectionla
-Explorations of Southern California
+Explorations of Southern California, one section at a time
 
 ##City of Los Angeles
 * Exploration 1 | Identifying R1 and C2 Zoning with Metro ROW and Soft Story Data | [Link](http://cityhubla.github.io/lacity_exploration_1) | [Code](https://github.com/cityhubla/lacity_exploration_1)
