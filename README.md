@@ -21,6 +21,8 @@ Explorations of Southern California
 
 ##Tools
 * [OSM2VectorTiles](http://osm2vectortiles.org/) | Download mbtiles of cities, countries or the world and run your own server
+* [QGIS](http://qgis.com/) | Free and Open Source Geographic Information System
+* [OpenStreetMap](http://www.openstreetmap.org/) | Community Driven Map, contributing the knowledge of the physical and natural worlds on a map
 
 ##Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
