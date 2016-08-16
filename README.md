@@ -17,7 +17,8 @@ Explorations of Southern California, one section at a time
 
 ##LA County
 * Redlining | Map overlay of Homeowner's Loan Corporation Residential Security Map of Los Angeles with the Racial Dot Map published by the Weldon Cooper Center for Public Service| [Map](http://cityhubla.github.io/holc_redlining/) | [Code](https://github.com/cityhubla/holc_redlining)
-* Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](https://cityhubla.github.io/lacounty_exploration_1/)[Code](https://github.com/cityhubla/lacounty_exploration_1)
+* Exploration 1 | Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](https://cityhubla.github.io/lacounty_exploration_1/)[Code](https://github.com/cityhubla/lacounty_exploration_1)
+* Exploration 2 | Housing for you, Housing for Us | Map showing generalized land uses, particularly Single Family Residences and Multifamily Residences | [Map](https://cityhubla.github.io/lacounty_exploration_2/) | [Code] (https://github.com/cityhubla/lacounty_exploration_2)
 
 ##Tools
 * [OSM2VectorTiles](http://osm2vectortiles.org/) | Download mbtiles of cities, countries or the world and run your own server
