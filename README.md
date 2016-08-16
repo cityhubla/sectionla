@@ -41,3 +41,5 @@ Explorations of Southern California, one section at a time
   * [Cities are for people; the Los Angeles region plans for living (1942)](https://archive.org/details/citiesareforpeop00scotrich)
 * LA Metro Library
   * [Los Angeles Transit And Transportation Studies, 1911-1957](https://www.metro.net/about/library/archives/visions-studies/los-angeles-transit-and-transportation-studies/)
+* LA County Planning Website
+ *  [1973 General Plan of Los Angeles County] (http://planning.lacounty.gov/assets/upl/project/sea_1973-study.pdf)
