@@ -21,9 +21,13 @@ Explorations of Southern California, one section at a time
 * Exploration 2 | Housing for you, Housing for Us | Map showing generalized land uses, particularly Single Family Residences and Multifamily Residences | [Map](https://cityhubla.github.io/lacounty_exploration_2/) | [Code] (https://github.com/cityhubla/lacounty_exploration_2)
 
 ##Tools
+* [Github](http://www.github.com) | Version control platform for developing projects, great for collaboration with or without knowledge in coding. 
 * [OSM2VectorTiles](http://osm2vectortiles.org/) | Download mbtiles of cities, countries or the world and run your own server
 * [QGIS](http://qgis.com/) | Free and Open Source Geographic Information System
 * [OpenStreetMap](http://www.openstreetmap.org/) | Community Driven Map, contributing the knowledge of the physical and natural worlds on a map
+* [Mapbox Studio](https://www.mapbox.com/mapbox-studio/) | Online design tool that makes styled custom maps for web applications
+* [leaflet.js](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps
+* [tilehut.js](https://github.com/b-g/tilehut) | Open-source raster and vector tile server
 
 ##Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
