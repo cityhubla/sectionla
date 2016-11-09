@@ -1,7 +1,6 @@
 # sectionla
 section.la is a collaboration of mappers, data visualizers, graphic designers and coders exploring Southern California, one section at a time. 
 
-Like what you see? Looking to have data visuals for your organization? Contact us and we'll provide you with tools and support.
 Contact collaborator, [Omar Ureta](www.theworks.la), [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55), [twitter](https://www.linkedin.com/in/omar-ureta-87195a55), or <omaru@theworks.la>
 
 ##City of Los Angeles
