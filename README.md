@@ -49,3 +49,8 @@ Contact collaborator, [Omar Ureta](www.theworks.la), [linkedin](https://www.link
   * [Los Angeles Transit And Transportation Studies, 1911-1957](https://www.metro.net/about/library/archives/visions-studies/los-angeles-transit-and-transportation-studies/)
 * LA County Planning Website
  *  [1973 General Plan of Los Angeles County] (http://planning.lacounty.gov/assets/upl/project/sea_1973-study.pdf)
+ 
+ ##LA City Related Links on Process, Organizational Structure
+ * [LA Street Agency Roles Infographic](http://164.67.121.27/files/Lewis_Center/images/Street%20Cross%20Section.jpg), [PDF](http://enterprisecommunity.org/sites/default/files/media-library/where-we-work/southern-california/TOD%20U/complete-streets-101-handout-la-street-agency-roles.pdf)
+ * [Los Angeles Structure of a City Government - THE LEAGUE OF WOMEN VOTERS OF LOS ANGELES](http://www.lwvlosangeles.org/files/Structure_of_a_City.pdf)
+ * [Legal Aid Foundation - Los Angeles Resident's Guide to Land Use Planning and Development](http://90032.org/eastern-lombardy/docs/land-use-planning-development-guide.pdf)
