@@ -12,6 +12,9 @@ Contact me Omar Ureta | Twitter | Email : omaru[at]theworks.la | Website | [link
 * Exploration 4 | Map displaying Entitlements Applications for Development from 2013-2015 with direct links to LA City Planning | [Map](http://cityhubla.github.io/LA-City-Entitlements/) | [Code](https://github.com/cityhubla/LA-City-Entitlements)
 * Exploration 5 | Map showing LA City Zoning with options to filter data | [Map](http://cityhubla.github.io/lacity_exploration_5/index_2.html) | [Code](https://github.com/cityhubla/lacity_exploration_5/) | [Data](https://t.co/YorkuQISjV)
 * Exploration 6 | Map identifying properties owned by the City of Los Angeles and it's departments | [Map](http://cityhubla.github.io/lacityproperties/) | [Code](https://github.com/cityhubla/lacityproperties)
+* Exploration 9 | Comparing LACITY Open Data with Official Reports | [Analysis](https://github.com/cityhubla/lacity_exploration_9)
+* Exploration 12 | Map showing Issued Building Permits from 2013-16 and load LADBS permit report | [Map](https://cityhubla.github.io/lacity_exploration_12/#12.38/34.0644/-118.2724) | [Code](https://github.com/cityhubla/lacity_exploration_12)
+* Exploration 14 | Map showing LADBS Code Enforcement Cases in Industial areas, load LADBS report | [Map](https://cityhubla.github.io/lacity_exploration_14/#13/34.0437/-118.2583) | [Code](https://github.com/cityhubla/lacity_exploration_14)
 
 ##Neighborhoods
 * Boyle Heights 1 | Real-time Building Permit Applications map showing new construction with direct links to Los Angeles Building and Safety | [Map](http://cityhubla.github.io/bhmap/) | [Code](https://github.com/cityhubla/bhmap)
