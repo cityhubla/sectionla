@@ -35,6 +35,8 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [Mapbox Studio](https://www.mapbox.com/mapbox-studio/) | Online design tool that makes styled custom maps for web applications
 * [leaflet.js](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps
 * [tilehut.js](https://github.com/b-g/tilehut) | Open-source raster and vector tile server
+* [Tippecanoe](https://github.com/mapbox/tippecanoe) | Build vector tilesets from large collections of GeoJSON features
+* [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox) | Build Virtual Machines, like running Linux on Windows host
 
 ##Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
