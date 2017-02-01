@@ -1,7 +1,7 @@
 # sectionla
 section.la is a collection of maps and data visualizations exploring Southern California, one section at a time. 
 
-The analysis, maps and code behind the explorations contribute to the services I offer as a consultant developing analog and digital tools and visualizatoins for Civic Engagement, Planning, Land Use Development and Public Policy. Think you could use my services?
+The analysis, maps and code behind the explorations contribute to the services I offer as a consultant developing analog and digital tools and visualizations for Civic Engagement, Planning, Land Use Development and Public Policy. Think you could use my services?
 
 Contact me Omar Ureta | Twitter | Email : omaru[at]theworks.la | Website | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
 
