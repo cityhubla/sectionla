@@ -3,7 +3,7 @@ section.la is a collection of maps and data visualizations exploring Southern Ca
 
 The analysis, maps and code behind the explorations contribute to the services I offer as a consultant developing analog and digital tools and visualizations for Civic Engagement, Planning, Land Use Development and Public Policy. Think you could use my services?
 
-Contact me Omar Ureta | Twitter | Email : omaru[at]theworks.la | Website | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
+Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omaru[at]theworks.la | [Website](http://www.theworks.la/) | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
 
 ##City of Los Angeles
 * Exploration 1 | Identifying R1 and C2 Zoning with Metro ROW and Soft Story Data | [Link](http://cityhubla.github.io/lacity_exploration_1) | [Code](https://github.com/cityhubla/lacity_exploration_1)
