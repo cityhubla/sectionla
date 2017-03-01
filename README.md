@@ -25,7 +25,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 ##LA County
 * builtLA | Map showing the age of the buildings by decade across LA County | [Map](cityhubla.github.io/LA_Building_Age/) | [Code](https://github.com/cityhubla/LA_Building_Age) | [Version 2 Map Draft](http://cityhub.la/builtLA_v2/index.html)
 * Redlining | Map overlay of Homeowner's Loan Corporation Residential Security Map of Los Angeles with the Racial Dot Map published by the Weldon Cooper Center for Public Service| [Map](http://cityhubla.github.io/holc_redlining/) | [Code](https://github.com/cityhubla/holc_redlining)
-* Exploration 1 | Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](https://cityhubla.github.io/lacounty_exploration_1/)[Code](https://github.com/cityhubla/lacounty_exploration_1)
+* Exploration 1 | Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](http://cityhub.la/explorations/lacounty_1/index.html) | [Code](https://github.com/cityhubla/lacounty_exploration_1)
 * Exploration 2 | Housing for you, Housing for Us | Map showing generalized land uses, particularly Single Family Residences and Multifamily Residences | [Map](https://cityhubla.github.io/lacounty_exploration_2/) | [Code] (https://github.com/cityhubla/lacounty_exploration_2)
 * Exploration 5 | Housing Units Across LA | Map showing housing units across LA County | [Map](cityhub.la/explorations/lacounty_5/index.html)
 
