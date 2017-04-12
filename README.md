@@ -5,7 +5,7 @@ The analysis, maps and code behind the explorations contribute to the services I
 
 Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omaru[at]theworks.la | [Website](http://www.theworks.la/) | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
 
-##City of Los Angeles
+## City of Los Angeles
 * Exploration 1 | Identifying R1 and C2 Zoning with Metro ROW and Soft Story Data | [Link](http://cityhubla.github.io/lacity_exploration_1) | [Code](https://github.com/cityhubla/lacity_exploration_1)
 * Exploration 2 | Overlay of 1941 Single Family Residence Zoning Map with 2016 Single Family Residential Zoning Data | [Link](http://cityhubla.github.io/lacity_exploration_2/) | [Code](https://github.com/cityhubla/lacity_exploration_2)
 * Exploration 3 | Identifying Single Family Properties with it's property tax base year. This looks at the rules set forth by Proposition 13 | [Data and Code](https://github.com/cityhubla/lacity_exploration_3)
@@ -16,20 +16,20 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * Exploration 12 | Map showing Issued Building Permits from 2013-16 and load LADBS permit report | [Map](https://cityhubla.github.io/lacity_exploration_12/#12.38/34.0644/-118.2724) | [Code](https://github.com/cityhubla/lacity_exploration_12)
 * Exploration 14 | Map showing LADBS Code Enforcement Cases in Industial areas, load LADBS report | [Map](https://cityhubla.github.io/lacity_exploration_14/#13/34.0437/-118.2583) | [Code](https://github.com/cityhubla/lacity_exploration_14)
 
-##Neighborhoods
+## Neighborhoods
 * Boyle Heights 1 | Real-time Building Permit Applications map showing new construction with direct links to Los Angeles Building and Safety | [Map](http://cityhubla.github.io/bhmap/) | [Code](https://github.com/cityhubla/bhmap)
  
-##Santa Monica
+## Santa Monica
 * SAMO Exploration 1 | Map visualizing buildint heights in the City of Santa Monica over 32 feet | [Map](https://cityhubla.github.io/samo_exploration_1/) | [Code](https://github.com/cityhubla/samo_exploration_1)
 
-##LA County
+## LA County
 * builtLA | Map showing the age of the buildings by decade across LA County | [Map](cityhubla.github.io/LA_Building_Age/) | [Code](https://github.com/cityhubla/LA_Building_Age) | [Version 2 Map Draft](http://cityhub.la/builtLA_v2/index.html)
 * Redlining | Map overlay of Homeowner's Loan Corporation Residential Security Map of Los Angeles with the Racial Dot Map published by the Weldon Cooper Center for Public Service| [Map](http://cityhubla.github.io/holc_redlining/) | [Code](https://github.com/cityhubla/holc_redlining)
 * Exploration 1 | Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](http://cityhub.la/explorations/lacounty_1/index.html) | [Code](https://github.com/cityhubla/lacounty_exploration_1)
 * Exploration 2 | Housing for you, Housing for Us | Map showing generalized land uses, particularly Single Family Residences and Multifamily Residences | [Map](https://cityhubla.github.io/lacounty_exploration_2/) | [Code] (https://github.com/cityhubla/lacounty_exploration_2)
 * Exploration 5 | Housing Units Across LA | Map showing housing units across LA County | [Map](http://cityhub.la/explorations/lacounty_5/index.html) | Code will be added soon
 
-##Tools
+## Tools
 * [Github](http://www.github.com) | Version control platform for developing projects, great for collaboration with or without knowledge in coding. 
 * [OSM2VectorTiles](http://osm2vectortiles.org/) | Download mbtiles of cities, countries or the world and run your own server
 * [QGIS](http://qgis.com/) | Free and Open Source Geographic Information System
@@ -40,7 +40,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [Tippecanoe](https://github.com/mapbox/tippecanoe) | Build vector tilesets from large collections of GeoJSON features
 * [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox) | Build Virtual Machines, like running Linux on Windows host
 
-##Research Docs
+## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
   * [Metropolitan Los Angeles, A Study in Integration (1952-55, John Randolph Haynes and Dora Haynes Foundation)](https://catalog.hathitrust.org/Record/001150641)
   * [The East Central Area Plan, (1963)](https://catalog.hathitrust.org/Record/000342257)
@@ -59,7 +59,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * LA County Planning Website
  *  [1973 General Plan of Los Angeles County] (http://planning.lacounty.gov/assets/upl/project/sea_1973-study.pdf)
  
-##LA City Related Links on Process, Organizational Structure
+## LA City Related Links on Process, Organizational Structure
 * [LA Street Agency Roles Infographic](http://164.67.121.27/files/Lewis_Center/images/Street%20Cross%20Section.jpg), [PDF](http://enterprisecommunity.org/sites/default/files/media-library/where-we-work/southern-california/TOD%20U/complete-streets-101-handout-la-street-agency-roles.pdf)
 * [Los Angeles Structure of a City Government - THE LEAGUE OF WOMEN VOTERS OF LOS ANGELES](http://www.lwvlosangeles.org/files/Structure_of_a_City.pdf)
 * [Legal Aid Foundation - Los Angeles Resident's Guide to Land Use Planning and Development](http://90032.org/eastern-lombardy/docs/land-use-planning-development-guide.pdf)
