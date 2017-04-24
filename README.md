@@ -39,6 +39,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [tilehut.js](https://github.com/b-g/tilehut) | Open-source raster and vector tile server
 * [Tippecanoe](https://github.com/mapbox/tippecanoe) | Build vector tilesets from large collections of GeoJSON features
 * [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox) | Build Virtual Machines, like running Linux on Windows host
+* [ESRI Mapserver Scraper](https://github.com/openaddresses/pyesridump) | Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.
 
 ## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
