@@ -40,6 +40,9 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [Tippecanoe](https://github.com/mapbox/tippecanoe) | Build vector tilesets from large collections of GeoJSON features
 * [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox) | Build Virtual Machines, like running Linux on Windows host
 * [ESRI Mapserver Scraper](https://github.com/openaddresses/pyesridump) | Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.
+* [OpenDataKit](https://github.com/opendatakit/opendatakit) | Open Data Kit (ODK) is a free and open-source set tools which help organizations author, field, and manage mobile data collection solutions.
+* [OpenMapKit](http://openmapkit.org/) Extension of Open Data Kit, for field collection to OSM
+* [Tabula](https://github.com/tabulapdf/tabula-java) | Java Library for extracting tables from PDF files
 
 ## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
