@@ -6,8 +6,8 @@ The analysis, maps and code behind the explorations contribute to the services I
 Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omaru[at]theworks.la | [Website](http://www.theworks.la/) | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
 
 ## City of Los Angeles
-* Exploration 1 | Identifying R1 and C2 Zoning with Metro ROW and Soft Story Data | [Link](http://cityhubla.github.io/lacity_exploration_1) | [Code](https://github.com/cityhubla/lacity_exploration_1)
-* Exploration 2 | Overlay of 1941 Single Family Residence Zoning Map with 2016 Single Family Residential Zoning Data | [Link](http://cityhubla.github.io/lacity_exploration_2/) | [Code](https://github.com/cityhubla/lacity_exploration_2)
+* Exploration 1 | Identifying R1 and C2 Zoning with Metro ROW and Soft Story Data | [Map](http://cityhubla.github.io/lacity_exploration_1) | [Code](https://github.com/cityhubla/lacity_exploration_1)
+* Exploration 2 | Overlay of 1941 Single Family Residence Zoning Map with 2016 Single Family Residential Zoning Data | [Map](http://cityhubla.github.io/lacity_exploration_2/) | [Code](https://github.com/cityhubla/lacity_exploration_2)
 * Exploration 3 | Identifying Single Family Properties with it's property tax base year. This looks at the rules set forth by Proposition 13 | [Data and Code](https://github.com/cityhubla/lacity_exploration_3)
 * Exploration 4 | Map displaying Entitlements Applications for Development from 2013-2015 with direct links to LA City Planning | [Map](http://cityhubla.github.io/LA-City-Entitlements/) | [Code](https://github.com/cityhubla/LA-City-Entitlements)
 * Exploration 5 | Map showing LA City Zoning with options to filter data | [Map](http://cityhubla.github.io/lacity_exploration_5/index_2.html) | [Code](https://github.com/cityhubla/lacity_exploration_5/) | [Data](https://t.co/YorkuQISjV)
