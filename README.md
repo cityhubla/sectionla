@@ -44,6 +44,12 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [OpenMapKit](http://openmapkit.org/) Extension of Open Data Kit, for field collection to OSM
 * [Tabula](https://github.com/tabulapdf/tabula-java) | Java Library for extracting tables from PDF files
 
+## Data
+* [LA County GIS Data Portal](https://egis3.lacounty.gov/dataportal/)
+* [LA County Open Data Portal](https://data.lacounty.gov/)
+* [LA City Open Data Portal](https://data.lacity.org/)
+* [LA City GeoHUB Data Portal](http://geohub.lacity.org/)
+
 ## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
   * [Metropolitan Los Angeles, A Study in Integration (1952-55, John Randolph Haynes and Dora Haynes Foundation)](https://catalog.hathitrust.org/Record/001150641)
