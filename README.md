@@ -49,6 +49,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [LA County Open Data Portal](https://data.lacounty.gov/)
 * [LA City Open Data Portal](https://data.lacity.org/)
 * [LA City GeoHUB Data Portal](http://geohub.lacity.org/)
+* [Harvard Hypermap Registry - Manages OWS, EsriREST, ETC _Very large collection](http://hh.worldmap.harvard.edu/)
 
 ## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
