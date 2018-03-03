@@ -52,6 +52,11 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * [Harvard Hypermap Registry - Manages OWS, EsriREST, ETC _Very large collection](http://hh.worldmap.harvard.edu/)
 * [NOAA DATA ACCESS VIEWER](https://coast.noaa.gov/dataviewer/#/)
 
+## METRO Bus Stop Data
+* [JUN17 LACMTA Stop Patronage (October, 2017 Bus Data - FY17 Rail Data)](https://tinyurl.com/LACMTA-201710-Stop-Patronage)
+* [DEC16 LACMTA Stop Patronage (March, 2017 Bus Data - FY17 Rail Data)](http://tinyurl.com/LACMTA-201703-Stop-Patronage)
+* [JUN16 LACMTA Stop Patronage (October, 2016 Bus Data - FY16 Rail Data)](https://fusiontables.googleusercontent.com/embedviz?q=select+col3+from+1NgD_z4WkYFZNUImrZsDAZMwg3mmDWHUZdPPi45TD&viz=MAP&h=false&lat=34.0477370567541&lng=-118.30271664843747&t=1&z=13&l=col3&y=2&tmplt=2&hml=TWO_COL_LAT_LNG)
+
 
 ## Research Docs
 * [HathiTrust Digital Library](https://www.hathitrust.org/) | Great place to find LA City Docs
