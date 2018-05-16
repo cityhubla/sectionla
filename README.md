@@ -28,6 +28,7 @@ Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omar
 * Exploration 1 | Stacked Parcels | Map identifying stacked parcels (like condos) in Los Angeles County | [Map](http://cityhub.la/explorations/lacounty_1/index.html) | [Code](https://github.com/cityhubla/lacounty_exploration_1)
 * Exploration 2 | Housing for you, Housing for Us | Map showing generalized land uses, particularly Single Family Residences and Multifamily Residences | [Map](https://cityhubla.github.io/lacounty_exploration_2/) | [Code] (https://github.com/cityhubla/lacounty_exploration_2)
 * Exploration 5 | Housing Units Across LA | Map showing housing units across LA County | [Map](http://cityhub.la/explorations/lacounty_5/index.html) | Code will be added soon
+* Exploration 10 | Drains to Ocean | Map showing storm drains by size | [Map](https://cityhubla.github.io/lacounty_exploration_10/)
 
 ## Tools
 * [Github](http://www.github.com) | Version control platform for developing projects, great for collaboration with or without knowledge in coding. 
